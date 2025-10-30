@@ -1,4 +1,5 @@
 streamlit
 pandas
-google-cloud-language
 numpy
+google-cloud-language
+requests
